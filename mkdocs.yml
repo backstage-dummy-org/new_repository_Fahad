@@ -1,0 +1,8 @@
+site_name: "Testing_Fahad"
+site_description: "Testing_Fahad"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
