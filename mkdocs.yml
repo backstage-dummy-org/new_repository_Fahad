@@ -1,8 +1,8 @@
-site_name: "Testing_Fahad"
-site_description: "Testing_Fahad"
-
+site_name: Testing_Fahad
+site_description: Testing_Fahad
 nav:
   - Introduction: index.md
-
+  - Architecture Decision Records:
+      - ADR-for-testing: ADR-for-testing.md
 plugins:
   - techdocs-core
